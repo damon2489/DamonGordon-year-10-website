@@ -1,1 +1,50 @@
-
+h1{
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+font-family:'Courier New', Courier, monospace;
+}
+.Links{
+    text-align: center;
+    border-style:groove;
+    border-color:blueviolet;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:black;
+}
+.history-origami {
+    border-style:ridge;
+    border-color:black;
+}
+h2 {
+    text-align:center
+}
+.simple_models {
+    border-style:dashed
+}
+h3 {
+    font-size: larger;
+    text-decoration:underline;
+    text-align:center;
+    font-style: oblique;
+}
+.intermediate_models {
+    border-style:groove;
+    border-color: green;
+}
+.complex_models {
+    border-style: double;
+    border-width: thick;
+    border-color: red;
+}
+h4 {
+    font-size: 19px;
+    color:blue;
+}
+.why_origami_text {
+    border-style:groove;
+    border-color:black;
+    border-radius: 9px;
+}
