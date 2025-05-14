@@ -48,3 +48,13 @@ h4 {
     border-color:black;
     border-radius: 9px;
 }
+body {
+    background-color:beige;
+}
+h5 {
+    font-size: 18px;
+    text-align: center;
+}
+.Image_Attributions {
+    text-align: center;
+}
